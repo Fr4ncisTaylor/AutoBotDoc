@@ -33,6 +33,6 @@
 
 * * *
 ## <p align="center">Suporte</p>
-<p align="center"><i>Em caso de erros, falhas, bugs ou dúvidas, contate o <a href="https://t.me/suporteautobot"> suporte Kbot telegram</a>.</i></p>
+<p align="center"><i>Em caso de erros, falhas, bugs ou dúvidas, contate o <a href="https://t.me/SuporteAutoBotBrasil"> suporte Kbot telegram</a>.</i></p>
 
 Tenha Bons Trades!! :)
