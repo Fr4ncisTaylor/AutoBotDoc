@@ -23,13 +23,13 @@
 
  * Campos:
 
- **[!]** Key        -> *Chave única de autenticação com o sistema AutoBot.*
- **[!]** Aposta     -> *Valor em reais (R$) que o bot vai apostar nas operações.*
- **[!]** Email      -> *Seu email da IQ option.*
- **[!]** Senha      -> *Sua senha IQ option.*
- **[!]** Conta      -> *A conta em que deseja operar (REAL OU PRACTICE).*
- **[!]** Martingale -> *A quantidade de gales por operação.*
- **[!]** Fator Gale -> *O valor de multiplicação da aposta.*
+ * Key        -> *Chave única de autenticação com o sistema AutoBot.*
+ * Aposta     -> *Valor em reais (R$) que o bot vai apostar nas operações.*
+ * Email      -> *Seu email da IQ option.*
+ * Senha      -> *Sua senha IQ option.*
+ * Conta      -> *A conta em que deseja operar (REAL OU PRACTICE).*
+ * Martingale -> *A quantidade de gales por operação.*
+ * Fator Gale -> *O valor de multiplicação da aposta.*
 
 * * *
 ## <p align="center">Suporte</p>
