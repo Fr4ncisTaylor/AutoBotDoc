@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/UiVvzSS.jpg" alt="Timotty"></p>
+<p align="center"><img src="https://i.imgur.com/UiVvzSS.jpg" size="50" alt="Timotty"></p>
 <p align="center"><strong>Versão 2.1.1</strong></p>
 
 * * *
